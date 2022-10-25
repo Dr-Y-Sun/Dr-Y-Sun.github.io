@@ -37,11 +37,6 @@ My research interests include passive localization, unified near-far-field model
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=frKbIYkAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) `<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>``</strong>`
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-
-frKbIYkAAAAJ `</div>`
-
-</div>
-
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
